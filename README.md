@@ -1,7 +1,7 @@
 ### iOS Developer Portfolio
 
 ## SwiftCongress
-[`View source code`](https://github.com/coughski/SwiftCongress)
+[`🔍 View source code`](https://github.com/coughski/SwiftCongress)
 
 **Technologies**
 - 🏎️ Swift
