@@ -1,15 +1,16 @@
 ### iOS Developer Portfolio
 
 ## SwiftCongress
-[Open source](https://github.com/coughski/SwiftCongress)
+[`View source code`](https://github.com/coughski/SwiftCongress)
 
 **Technologies**
 - 🏎️ Swift
 - 📐 SwiftUI
-- MVVM
+- 🏛️ MVVM
+- 🔁 REST APIs
 
-## 🤝 SwiftEncounters
-Business card exchange
+## SwiftEncounters
+### Business card exchange
 
 **Technologies**
 - 🏎️ Swift
@@ -22,7 +23,7 @@ Business card exchange
 <!--[Available on the App Store](https://apps.apple.com/us/app/swiftencounters/id1635827235)-->
 <a href="https://apps.apple.com/us/app/swiftencounters/id1635827235" target="_blank"><img width="150" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
 
-## 👾 Rapscal
+## Rapscal
 ### Pet simulation game
 
 **Technologies**
@@ -34,10 +35,8 @@ Business card exchange
 <!--[Available on the App Store](https://apps.apple.com/us/app/rapscal/id1599032411)-->
 <a href="https://apps.apple.com/us/app/rapscal/id1599032411" target="_blank"><img width="150" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
 
-## ⏲️ TimersUnlimited
+## TimersUnlimited
 ### Multiple timers & widgets
-
-TimersUnlimited is a general-purpose timer app.
 
 **Technologies**
 - 🏎️ Swift
@@ -47,4 +46,5 @@ TimersUnlimited is a general-purpose timer app.
 - 🔔 User Notifications
 - 🛒 StoreKit
 
-[Available on the App Store](https://apps.apple.com/us/app/timersunlimited/id1551693659)
+<!--[Available on the App Store](https://apps.apple.com/us/app/timersunlimited/id1551693659)-->
+<a href="https://apps.apple.com/us/app/rapscal/id1599032411" target="_blank"><img width="150" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
