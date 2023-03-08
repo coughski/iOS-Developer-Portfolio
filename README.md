@@ -34,7 +34,7 @@ The app allows users to create and exchange cards via QR code.
 ### Pet simulation game
 
 Interact with the pet by tapping on it or the environment, and the pet will respond intelligently.
-- Wrote a custom Swift DSL for expressing animations more succinctly: github.com/coughski/ActionBuilder
+- Wrote a custom Swift DSL for expressing animations more succinctly: [`ActionBuilder`](https://github.com/coughski/ActionBuilder)
 - Used path-finding, obstacle avoidance, collision detection, rule systems, and state machines from GameplayKit
 
 **Technologies**
