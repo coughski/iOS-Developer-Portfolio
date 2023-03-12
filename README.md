@@ -16,10 +16,10 @@
 [`🔍 View source code`](https://github.com/coughski/SwiftCongress)
 
 **Technologies**
-- 🏎️ Swift
-- 📐 SwiftUI
-- 🏛️ MVVM
 - 🔁 REST APIs
+- 🏛️ MVVM
+- 📐 SwiftUI
+- 🏎️ Swift
       
 </td>
 </tr>
@@ -42,12 +42,12 @@ The app allows users to create and exchange cards via QR code.
 <td>
 
 **Technologies**
-- 🏎️ Swift
-- 📐 SwiftUI
-- 💾 Core Data
-- ☁️ CloudKit
 - 📎 App Clips
+- ☁️ CloudKit
+- 💾 Core Data
 - 📦 Swift Package Manager
+- 📐 SwiftUI
+- 🏎️ Swift
 
 <br>
 
@@ -74,10 +74,10 @@ Interact with the pet by tapping on it or the environment, and the pet will resp
 - Used path-finding, obstacle avoidance, collision detection, rule systems, and state machines from GameplayKit
 
 **Technologies**
-- 🏎️ Swift
-- 🎛️ UIKit
 - 👾 SpriteKit
 - 🎲 GameplayKit
+- 🎛️ UIKit
+- 🏎️ Swift
 
 <a href="https://apps.apple.com/us/app/rapscal/id1599032411" target="_blank"><img width="150" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
 
@@ -91,11 +91,11 @@ Allows users to run multiple simultaneous timers and display them as Home Screen
 - Persisted user data by encoding model objects as JSON and writing out to file
 
 **Technologies**
-- 🏎️ Swift
+- 📟 WidgetKit
+- 🛒 StoreKit
+- 🔔 UserNotifications
 - 📐 SwiftUI
 - 🎛️ UIKit
-- 📟 WidgetKit
-- 🔔 UserNotifications
-- 🛒 StoreKit
+- 🏎️ Swift
 
 <a href="https://apps.apple.com/us/app/timersunlimited/id1551693659" target="_blank"><img width="150" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
