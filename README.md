@@ -2,6 +2,17 @@
 ![iphone-banner](https://user-images.githubusercontent.com/945761/223170235-c4bac54f-871f-44bb-9fca-e9a86db75527.jpeg)
 
 ## SwiftCongress
+
+<table>
+<tr>
+<td>
+      
+<img width="180" alt="Download on the App Store" src="https://user-images.githubusercontent.com/945761/224567109-99410aa4-1006-4452-b4d6-6d7b3bd23870.png"/>
+      
+</td>
+
+<td>
+      
 [`🔍 View source code`](https://github.com/coughski/SwiftCongress)
 
 **Technologies**
@@ -9,6 +20,12 @@
 - 📐 SwiftUI
 - 🏛️ MVVM
 - 🔁 REST APIs
+      
+</td>
+</tr>
+</table>
+
+<br>
 
 ## SwiftEncounters
 ### Business card exchange
@@ -30,6 +47,8 @@ The app allows users to create and exchange cards via QR code.
 
 <a href="https://apps.apple.com/us/app/swiftencounters/id1635827235" target="_blank"><img width="150" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
 
+<br>
+
 ## Rapscal
 ### Pet simulation game
 
@@ -44,6 +63,8 @@ Interact with the pet by tapping on it or the environment, and the pet will resp
 - 🎲 GameplayKit
 
 <a href="https://apps.apple.com/us/app/rapscal/id1599032411" target="_blank"><img width="150" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
+
+<br>
 
 ## TimersUnlimited
 ### Multiple timers & widgets
