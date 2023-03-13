@@ -1,31 +1,6 @@
 ### iOS Developer Portfolio
 ![iphone-banner](https://user-images.githubusercontent.com/945761/223170235-c4bac54f-871f-44bb-9fca-e9a86db75527.jpeg)
 
-## SwiftCongress
-
-<table>
-<tr>
-<td>
-      
-<img width="180" alt="Swift Congress" src="https://user-images.githubusercontent.com/945761/224567109-99410aa4-1006-4452-b4d6-6d7b3bd23870.png"/>
-      
-</td>
-<td>
-      
-[`🔍 View source code`](https://github.com/coughski/SwiftCongress)
-
-**Technologies**
-- 🔁 REST APIs
-- 🏛️ MVVM
-- 📐 SwiftUI
-- 🏎️ Swift
-      
-</td>
-</tr>
-</table>
-
-<br>
-
 ## SwiftEncounters
 ### Business card exchange
 The app allows users to create and exchange cards via QR code.
@@ -61,6 +36,31 @@ The app allows users to create and exchange cards via QR code.
 - Implemented custom Core Data to CloudKit sync, improving sync time from every 30 minutes to instant
 - Includes network calls to an API to build & download avatar images, which are locally cached
 - Incorporated Twitter account login
+
+<br>
+
+## SwiftCongress
+
+<table>
+<tr>
+<td>
+      
+<img width="180" alt="Swift Congress" src="https://user-images.githubusercontent.com/945761/224567109-99410aa4-1006-4452-b4d6-6d7b3bd23870.png"/>
+      
+</td>
+<td>
+      
+[`🔍 View source code`](https://github.com/coughski/SwiftCongress)
+
+**Technologies**
+- 🔁 REST APIs
+- 🏛️ MVVM
+- 📐 SwiftUI
+- 🏎️ Swift
+      
+</td>
+</tr>
+</table>
 
 <br>
 
