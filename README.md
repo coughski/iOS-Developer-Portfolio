@@ -87,8 +87,16 @@ Interact with the pet by tapping on it or the environment, and the pet will resp
 ### Multiple timers & widgets
 
 Allows users to run multiple simultaneous timers and display them as Home Screen widgets.
-- Implemented an In-App Purchase with StoreKit and User Defaults
-- Persisted user data by encoding model objects as JSON and writing out to file
+
+<table>
+<tr>
+<td>
+
+<img width="180" alt="TimersUnlimited" src="https://user-images.githubusercontent.com/945761/224740816-7f7f63b6-290e-4e1d-ab3f-74fc7b8e1818.png"/>
+
+</td>
+
+<td>
 
 **Technologies**
 - 📟 WidgetKit
@@ -98,4 +106,13 @@ Allows users to run multiple simultaneous timers and display them as Home Screen
 - 🎛️ UIKit
 - 🏎️ Swift
 
+<br>
+
 <a href="https://apps.apple.com/us/app/timersunlimited/id1551693659" target="_blank"><img width="150" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
+
+</td>
+</tr>
+</table>
+
+- Implemented an In-App Purchase with StoreKit and User Defaults
+- Persisted user data by encoding model objects as JSON and writing out to file
