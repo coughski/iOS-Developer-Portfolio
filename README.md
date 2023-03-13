@@ -70,8 +70,16 @@ The app allows users to create and exchange cards via QR code.
 ### Pet simulation game
 
 Interact with the pet by tapping on it or the environment, and the pet will respond intelligently.
-- Wrote a custom Swift DSL for expressing animations more succinctly: [`ActionBuilder`](https://github.com/coughski/ActionBuilder)
-- Used path-finding, obstacle avoidance, collision detection, rule systems, and state machines from GameplayKit
+
+<table>
+<tr>
+<td>
+
+<img width="180" alt="Rapscal" src="https://user-images.githubusercontent.com/945761/224750228-3b348865-d658-484d-b3e1-4d17eebdfc72.png"/>
+
+</td>
+
+<td>
 
 **Technologies**
 - 👾 SpriteKit
@@ -79,7 +87,17 @@ Interact with the pet by tapping on it or the environment, and the pet will resp
 - 🎛️ UIKit
 - 🏎️ Swift
 
+<br>
+
 <a href="https://apps.apple.com/us/app/rapscal/id1599032411" target="_blank"><img width="150" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
+
+</td>
+</tr>
+</table>
+<br>
+
+- Wrote a custom Swift DSL for expressing animations more succinctly: [`ActionBuilder`](https://github.com/coughski/ActionBuilder)
+- Used path-finding, obstacle avoidance, collision detection, rule systems, and state machines from GameplayKit
 
 <br>
 
@@ -113,6 +131,7 @@ Allows users to run multiple simultaneous timers and display them as Home Screen
 </td>
 </tr>
 </table>
+<br/>
 
 - Implemented an In-App Purchase with StoreKit and User Defaults
 - Persisted user data by encoding model objects as JSON and writing out to file
