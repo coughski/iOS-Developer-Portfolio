@@ -32,11 +32,11 @@ The app allows users to create and exchange cards via QR code.
 </table>
 <br>
 
-- Stored user content and cached cloud data with Core Data
-- Used a CloudKit public database container to sync content between all users
 - Implemented custom Core Data to CloudKit sync, improving sync time from every 30 minutes to instant
-- Includes network calls to an API to build & download avatar images, which are locally cached
+- Used a CloudKit public database container to sync content between all users
+- Stored user content and cached cloud data with Core Data
 - Incorporated Twitter account login
+- Includes network calls to an API to build & download avatar images, which are locally cached
 
 <br>
 
