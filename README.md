@@ -82,6 +82,10 @@ Allows users to run multiple simultaneous timers and display them as Home Screen
 
 <td>
 
+<br>
+
+<a href="https://apps.apple.com/us/app/timersunlimited/id1551693659" target="_blank"><img width="80" alt="TimersUnlimited" src="https://user-images.githubusercontent.com/945761/226111042-a84536e4-1b78-4488-aecf-7256c6dbc704.png"></a>
+
 **Technologies**
 - 📟 WidgetKit
 - 🛒 StoreKit
