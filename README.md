@@ -119,6 +119,8 @@ Interact with the pet by tapping on it or the environment, and the pet will resp
 
 <td>
 
+<a href="https://apps.apple.com/us/app/rapscal/id1599032411" target="_blank"><img width="80" alt="Rapscal" src="https://user-images.githubusercontent.com/945761/226110518-7e5f88b9-9b5c-47c5-835a-610e1e7fa09d.png"></a>
+
 **Technologies**
 - 👾 SpriteKit
 - 🎲 GameplayKit
