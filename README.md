@@ -15,6 +15,8 @@ The app allows users to create and exchange cards via QR code.
 </td>
 <td>
 
+<a href="https://apps.apple.com/us/app/swiftencounters/id1635827235" target="_blank"><img width="80" alt="SwiftEncounters" src="https://user-images.githubusercontent.com/945761/226110027-e36011fb-ff8d-4104-b4b8-a681bee4470e.png"></a>
+
 **Technologies**
 - 📎 App Clips
 - ☁️ CloudKit
