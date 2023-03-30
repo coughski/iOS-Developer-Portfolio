@@ -42,22 +42,27 @@ The app allows users to create and exchange cards via QR code.
 
 <br>
 
-## SwiftCongress
+## NYCSchools
+
+An iOS app for searching, sorting, and viewing details about NYC high schools.
 
 <table>
 <tr>
 <td>
-      
-<img width="180" alt="Swift Congress" src="https://user-images.githubusercontent.com/945761/224567109-99410aa4-1006-4452-b4d6-6d7b3bd23870.png"/>
+
+<img width="180" alt="NYCSchools" src="https://user-images.githubusercontent.com/945761/228927052-da76601b-f8e2-401c-bcc5-3cb1071b95e4.png"/>
       
 </td>
 <td>
       
-[`🔍 View source code`](https://github.com/coughski/SwiftCongress)
+[`🔍 View source code`](https://github.com/coughski/NYCSchoolsChallenge)
 
 **Technologies**
+- 🧵 async/await
 - 🔁 REST APIs
 - 🏛️ MVVM
+- ✅ XCTest
+- 📊 Swift Charts
 - 📐 SwiftUI
 - 🏎️ Swift
       
